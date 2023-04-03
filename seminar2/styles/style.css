@@ -1,0 +1,16 @@
+body {
+    background: rgb(212, 228, 248);
+}
+h1 {
+    color: rgb(18, 18, 83);
+}
+img {
+    width: 1000px;
+}
+.coloredtext {
+    font-size: 1.5rem;
+    color: rgb(1, 36, 24);
+}
+a:hover {
+  color:rgb(187, 4, 193) 
+}
